@@ -4,7 +4,7 @@ The conversational document bot allows users to upload a file (either PDF or Wor
 
 The app provides settings which control the behavior of document extraction and model responses.  
 
-The Sample provided here is [**covered in a Blog**](https://aws-blogs-prod.amazon.com/dotnet/document-bot-on-amazon-bedrock-with-net-windows-forms/), which includes detailed walkthrough of the sample and use case
+The Sample provided here is [**covered in a Blog**](https://aws.amazon.com/blogs/dotnet/document-bot-on-amazon-bedrock-with-net-windows-forms/), which includes detailed walkthrough of the sample and use case
 
 <img src="DocumentBot.jpg">
 
